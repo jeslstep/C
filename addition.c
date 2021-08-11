@@ -2,16 +2,16 @@
 
 int main(viod)
 {
-    // Declare the variables
+    // Declare variables
     int num;
     int num1;
-    // Input the integer
+    // Input the first integer
     printf("Enter the first integer: ");
     scanf("%d", &num);
-    // Input the integer
+    // Input the second integer
     printf("Enter the second integer: ");
     scanf("%d", &num1);
 
-    // Output the first integer plus the second integer
-    printf("\nEntered integer addition: %d", num + num1);
+    // Output the sum of first and second integer
+    printf("\nSum is: %d", num + num1);
 }
