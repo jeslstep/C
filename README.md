@@ -1,3 +1,5 @@
+https://cs50.harvard.edu/x/2021/weeks/1/
+
 https://dev.to/codelyf/c-programming-cheat-sheet-3h4d
 https://www.geeksforgeeks.org/basic-input-and-output-in-c/
 
