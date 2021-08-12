@@ -11,3 +11,16 @@ gcc -Wall addition.c -o addition
 
 -Wall & -o options
 https://www.geeksforgeeks.org/compiling-a-c-program-behind-the-scenes/
+
+run the executables:
+./hello
+./addition
+
+
+tests:
+install check
+https://libcheck.github.io/check/web/install.html#osxhomebrew
+
+errors experienced:
+you can not compare strings in C with ==
+https://cs50.stackexchange.com/questions/34964/error-result-of-comparison-against-a-string-literal-is-unspecified-use-strncmp
