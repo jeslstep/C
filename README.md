@@ -1,4 +1,6 @@
+I started following along with the cs50 2021 course and adapted to 
 https://cs50.harvard.edu/x/2021/weeks/1/
+
 
 https://dev.to/codelyf/c-programming-cheat-sheet-3h4d
 https://www.geeksforgeeks.org/basic-input-and-output-in-c/
@@ -20,6 +22,7 @@ run the executables:
 tests:
 install check
 https://libcheck.github.io/check/web/install.html#osxhomebrew
+https://github.com/libcheck/check
 
 errors experienced:
 you can not compare strings in C with ==

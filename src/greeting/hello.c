@@ -2,13 +2,13 @@
 
 int main(void)
 {
-    // Declare name variable
+    // Declare variable
     char name[20];
  
-    // Ask user for their name
+    // Prompt user for input
     printf("Enter your name: ");
     scanf("%s", name);
 
-    // Output hello name
+    // Output
     printf("Hello, %s\n", name );
 }
