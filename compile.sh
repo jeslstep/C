@@ -1,0 +1,1 @@
+gcc -Wall agree.c -o agree
